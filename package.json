@@ -1,0 +1,18 @@
+{
+  "name": "grpc-testing-node",
+  "version": "0.1.0",
+  "description": "A client for testing gRPC services",
+  "author": {
+    "name": "Javier Diaz",
+    "email": "coderdiaz@gmail.com"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "grpc": "^1.11.1",
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^8.10.12",
+    "ts-node": "^6.0.2"
+  }
+}
