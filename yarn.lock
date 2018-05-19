@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@types/faker@^4.1.2":
+  version "4.1.2"
+  resolved "http://registry.npm.taobao.org/@types/faker/download/@types/faker-4.1.2.tgz#f8ab50c9f9af68c160dd71b63f83e24b712d0df5"
+
 "@types/node@^8.10.12":
   version "8.10.12"
   resolved "http://registry.npm.taobao.org/@types/node/download/@types/node-8.10.12.tgz#dcb66f6de39074a296534bd1a256a3c6a1c8f5b5"
@@ -150,6 +154,10 @@ dotenv@^5.0.1:
 escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "http://registry.npm.taobao.org/escape-string-regexp/download/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
+
+faker@^4.1.0:
+  version "4.1.0"
+  resolved "http://registry.npm.taobao.org/faker/download/faker-4.1.0.tgz#1e45bbbecc6774b3c195fad2835109c6d748cc3f"
 
 fs-minipass@^1.2.5:
   version "1.2.5"
